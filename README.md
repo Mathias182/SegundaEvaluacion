@@ -9,7 +9,8 @@ _Evaluación  programación  orientada  a  objetos del bootcamp AWAKELAB_
  * _javaDoc_
  * _Control de versiones_
  * _Pruebas unitarias_
- 
+## UML ☕️
+![alt text](https://github.com/Mathias182/SegundaEvaluacion/blob/master/EVALUACION%20N%C2%AA2%20(ABP)/new_diagram.jpg)
 ## Heramientas utilizadas  🛠️
  * IDE Eclipse 2019-12
  * GITLAB
