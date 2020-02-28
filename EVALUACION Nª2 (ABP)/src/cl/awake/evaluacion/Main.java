@@ -19,16 +19,17 @@ public class Main {
 	        
 	        Electrodomesticos[] arrayElectro = new Electrodomesticos[10];
 	        
-	        arrayElectro[0] = new Electrodomesticos();
-	        arrayElectro[1] = new Lavadora(2000 ,400);
-	        arrayElectro[2] = new Televicion();
-	        arrayElectro[3] = new Electrodomesticos(50, 5);
-	        arrayElectro[4] = new Lavadora(150, 50);
-	        arrayElectro[5] = new Televicion(80, 15);
-	        arrayElectro[6] = new Electrodomesticos(180, 20);
-	        arrayElectro[7] = new Lavadora("ROJO", 20, 200321, 'A', 20);
-	        arrayElectro[8] = new Televicion(125, 12);
-	        arrayElectro[9] = new Lavadora(90, 90);
+	        arrayElectro[0] = new Electrodomesticos(180300, 55);
+	        arrayElectro[1] = new Lavadora("ROJO", 450, 200321, 'A', 20);
+	        arrayElectro[2] = new Electrodomesticos();
+	        arrayElectro[3] = new Lavadora(189290 ,400);
+	        arrayElectro[4] = new Televicion(123234, 23);
+		arrayElectro[5] = new Lavadora(150900, 40);
+		arrayElectro[6] = new Lavadora(999000, 90);
+	        arrayElectro[7] = new Televicion(80300, 25);
+	        arrayElectro[8] = new Electrodomesticos(502500, 50);
+	        arrayElectro[9] = new Televicion(325000, 12);
+	       
 	        
 	        return arrayElectro;
 	    }
