@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"cl.awake.evaluacion","l":"Electrodomesticos"},{"p":"cl.awake.evaluacion","l":"Lavadora"},{"p":"cl.awake.evaluacion","l":"Main"},{"p":"cl.awake.evaluacion","l":"Televicion"}]

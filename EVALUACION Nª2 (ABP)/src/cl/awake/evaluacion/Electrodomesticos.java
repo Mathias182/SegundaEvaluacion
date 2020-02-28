@@ -102,7 +102,7 @@ public class Electrodomesticos {
 	/**
 	 * comprueba que la letra es correcta, sino es correcta usara la letra F
 	 * 
-	 * @param consumo_energetico
+	 * @param letra
 	 */
 	public void comprobarConsumoEnergetico(char letra) {
 
@@ -145,7 +145,7 @@ public class Electrodomesticos {
 	 * comprueba que el color es correcto, sino lo es usa el color por defecto
 	 * 
 	 * @param color
-	 * @return 
+	 * @return color
 	 */
 	public String comprobarColor(String color) {
 
@@ -158,7 +158,7 @@ public class Electrodomesticos {
 	}
 
 	/**
-	 * según el consumo energetico, aumentara su precio, y segun su tamaño tambien.
+	 * tranforma su peso en valor monetario
 	 * 
 	 * @return precio_base
 	 */

@@ -59,7 +59,15 @@ public class Televicion extends Electrodomesticos{
 	}
 	
     
-    @Override    
+    public void setResolucion(int resolucion) {
+		this.resolucion = resolucion;
+	}
+
+	public void setSintonizadorTDT(boolean sintonizadorTDT) {
+		this.sintonizadorTDT = sintonizadorTDT;
+	}
+
+	@Override    
 	public double precioFinal() {
     	
     	double monto = super.precioFinal();

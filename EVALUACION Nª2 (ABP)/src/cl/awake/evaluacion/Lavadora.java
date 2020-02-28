@@ -52,6 +52,20 @@ public class Lavadora extends Electrodomesticos {
 	public int getCARGA() {
 		return carga;
 	}
+	/*
+	 * "return carga
+	 */
+	public int getCarga() {
+		return carga;
+	}
+
+	public void setCarga(int carga) {
+		this.carga = carga;
+	}
+
+	public static int getCargadefecto() {
+		return cargaDefecto;
+	}
 
 	/*
 	 * si la carga es superior a 30 agrega 50 al monto
